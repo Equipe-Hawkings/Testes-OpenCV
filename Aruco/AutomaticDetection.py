@@ -1,3 +1,6 @@
+''' Detecção Automática de um aruco, sem definir previamente o tipo de tag (4x4, 5x5 ou 6x6 ...)
+	Detecção feita analisando uma transmissão via webcam'''
+
 from imutils.video import VideoStream
 import argparse
 import imutils

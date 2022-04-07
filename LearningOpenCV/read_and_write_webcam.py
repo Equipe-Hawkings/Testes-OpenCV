@@ -1,3 +1,5 @@
+'''Código que lê e exibe a transmissão de vídeo de uma webcam utilizando OpenCV'''
+
 #Biblioteca do OpenCV2
 import cv2
 

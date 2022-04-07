@@ -1,3 +1,6 @@
+''' Código que detecta um aruco tag, definindo previamente o tipo de tag (4X4, 5X5, 6X6 ...)'''
+''' Detecção feita analisando uma imagem'''
+
 # import the necessary packages
 import argparse
 import imutils

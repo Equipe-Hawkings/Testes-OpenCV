@@ -1,3 +1,6 @@
+''' Código que detecta um aruco tag, definindo previamente o tipo de tag (4X4, 5X5, 6X6 ...)'''
+''' Detecção feita analisando uma transmissão de vídeo via webcam'''
+
 #!/usr/bin/env python3	
 from imutils.video import VideoStream
 import argparse

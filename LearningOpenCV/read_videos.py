@@ -1,3 +1,5 @@
+'''Código que lê e exibe um vídeo utilizando OpenCV'''
+
 # Biblioteca do OpenCV2
 import cv2
 

@@ -1,3 +1,7 @@
+''' Detecção Automática de um aruco, sem definir previamente o tipo de tag (4x4, 5x5 ou 6x6 ...)
+	Detecção feita analisando uma imagem'''
+
+
 # import the necessary packages
 import argparse
 import imutils

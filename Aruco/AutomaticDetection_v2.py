@@ -1,3 +1,8 @@
+''' Detecção Automática de um aruco, sem definir previamente o tipo de tag (4x4, 5x5 ou 6x6 ...)
+	Detecção feita analisando uma transmissão de vídeo via webcam
+	Essa versao 2 do "AutomaticDetection", busca uma detecção contínua do aruco sem pausas '''
+
+
 #!/usr/bin/env python3	
 from imutils.video import VideoStream
 import argparse
